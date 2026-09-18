@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"fix_hostsay"
+	"file"	"addons/cs2_fix_hostsay/bin/linuxsteamrt64/cs2_fix_hostsay"
+}
